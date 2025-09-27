@@ -5,13 +5,13 @@
         <link>http://localhost:1313/zh-cn/</link>
         <description>Recent content in Zh-Cns on HHEY s homepage</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>zh-cn</language>
         <lastBuildDate>Sun, 03 Aug 2025 14:59:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Port</title>
-        <link>http://localhost:1313/zh-cn/port/</link>
+        <link>http://localhost:1313/zh-cn/%E6%96%87%E7%AB%A0/</link>
         <pubDate>Sun, 03 Aug 2025 14:59:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/port/</guid>
+        <guid>http://localhost:1313/zh-cn/%E6%96%87%E7%AB%A0/</guid>
         <description>&lt;p&gt;the quickly brown fox jumps over the lazy dog
 THE QUICKLY BROWN FOX JUMPS OVER THE LAZY DOG
 测试 字体 李华&lt;/p&gt;
